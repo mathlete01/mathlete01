@@ -19,10 +19,10 @@
 
 ### Connect With Me
 
-🏢 [linkedin][linkedin] **•**
-✉️ [email][email] **•**
-💼 [portfolio][portfolio] **•**
-📓 [blog][blog]
+🏢 [Linkedin][linkedin] **•**
+✉️ [Email][email] **•**
+💼 [Portfolio][portfolio] **•**
+📓 [Blog][blog]
 
 [debtortoinvestor]: https://www.DebtorToInvestor.com
 [qwertyball]: https://www.QWERTYBall.com
