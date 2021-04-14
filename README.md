@@ -14,7 +14,7 @@
 
 - 🕹 **[QWERTYBall.com][qwertyball]** is a breakout-like game where you have to hit the keys on your keyboard to keep the ball in play
 - 📈 **[DebtorToInvestor.com][debtortoinvestor]** creates a personalized roadmap to getting out of debt and starting to invest
-- 📊 **[TheSystem.app][thesystem]** is an iOS app I designed to manage your money
+- 📊 **[TheSystem.app][thesystem]** is an iOS app I created to manage your money
 ---
 
 ### Connect With Me
