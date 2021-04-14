@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Matty
 
 ### I'm a Web Developer-tuned-UX Designer-turned-Software Engineer 
-- My motto: "When you can both identify problems and build solutions, you can do things that no one else can do,”– John Maeda
+- My motto: ** *"When you can both identify problems and build solutions, you can do things that no one else can do,”* ** – John Maeda
 - 🌱 I’m currently learning **d3 and Node.js**
 - My portfolio is at **[Mathlete.com][http://www.mathlete.com]**
 - My blog is called **[Analogy | Absence | Example][blog]**
