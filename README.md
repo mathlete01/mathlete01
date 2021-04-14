@@ -3,7 +3,7 @@
 ### I'm a Web Developer-tuned-UX Designer-turned-Software Engineer 
 - My motto: ***"When you can both identify problems and build solutions, you can do things that no one else can do.”*** – John Maeda
 - 🌱 I’m currently learning **d3 and Node.js**
-- My portfolio is at **[Mathlete.com][http://www.mathlete.com]**
+- My portfolio is at **[Mathlete.com][portfolio]**
 - My blog is called **[Analogy | Absence | Example][blog]**
 - 🤓 I enjoy **solving problems by writing code**, and I geek out on **information visualization**
 - 🙂 In my spare time I like to  **discover urban stairways**, **improve my speed solving Rubik's Cube**, and **bake Bundt cakes**
