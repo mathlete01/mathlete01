@@ -29,6 +29,7 @@
 [thesystem]: https://www.TheSystem.app
 [linkedin]: https://www.linkedin.com/in/msallin/
 [email]: matty@mathlete.com
+[email]: amelieoller@gmail.com
 [portfolio]: http://www.mathlete.com/
 [blog]: https://dev.to/mathlete
 
