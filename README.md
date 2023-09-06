@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Matty
 
-### I'm a Web Developer-tuned-UX Designer-turned-Software Engineer 
+### I'm a Web Developer-turned-UX Designer-turned-Design Engineer 
 - My motto: ***"When you can both identify problems and build solutions, you can do things that no one else can do.”*** – John Maeda
 - 🌱 I’m currently learning **d3 and Node.js**
 - My portfolio is at **[Mathlete.com][portfolio]**
